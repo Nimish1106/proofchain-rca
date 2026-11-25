@@ -1,0 +1,25 @@
+# API framework
+fastapi
+uvicorn[standard]
+
+# Configuration and validation
+pydantic-settings
+
+# Database and migrations
+sqlalchemy
+psycopg[binary]
+alembic
+
+# AI orchestration and Groq
+langgraph
+groq
+
+# PDF extraction
+pymupdf
+
+# HTTP file upload support
+python-multipart
+
+# Testing
+pytest
+httpx
